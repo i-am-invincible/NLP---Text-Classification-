@@ -1,4 +1,4 @@
-# NLP---Text-Classification-
+# NLP-Text-Classification-
 Text Classification using Hugging Face library to classify a dataset of text into one of multiple categories. I will use a pre-trained model BERT as a starting point and fine-tune it on the classification task.
 
 The process of building a text classification model using Hugging Face library and fine-tuning a
